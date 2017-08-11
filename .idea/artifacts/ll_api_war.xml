@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ll-api:war">
+    <output-path>$PROJECT_DIR$/ll-api/target</output-path>
+    <root id="archive" name="ll-api-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ll-api:war exploded" />
+    </root>
+  </artifact>
+</component>
