@@ -15,6 +15,7 @@ public class CaseController {
     public String sayHello(){
         String msg = dto.sayHello();
         //Adding a comment
+        //Adding another comment
         return msg;
     }
 }
