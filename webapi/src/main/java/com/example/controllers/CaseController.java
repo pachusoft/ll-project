@@ -14,6 +14,7 @@ public class CaseController {
     @RequestMapping("/hello")
     public String sayHello(){
         String msg = dto.sayHello();
+        //Adding a comment
         return msg;
     }
 }
