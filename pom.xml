@@ -10,6 +10,7 @@
         <module>domain</module>
 		<module>persistence</module>
 		<module>webapi</module>
+		<module>service</module>
 	</modules>
     <packaging>pom</packaging>
 

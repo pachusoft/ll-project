@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"com.example.controllers","com.ll.persistance"})
+@ComponentScan({"com.example.controllers","com.ll.persistance","com.ll.llservices"})
 
 public class WebapiApplication {
 
